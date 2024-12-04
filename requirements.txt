@@ -1,7 +1,7 @@
 streamlit
 google-generativeai
 python-dotenv
-tempfile
+#tempfile
 os
 PIL
 fitz
