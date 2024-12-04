@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+tempfile
+os
+PIL
+fitz
+#langchain
+PyPDF2
+#chromadb
+#faiss-cpu
