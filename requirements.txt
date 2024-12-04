@@ -2,7 +2,7 @@ streamlit
 google-generativeai
 python-dotenv
 #tempfile
-os
+#os
 PIL
 fitz
 #langchain
