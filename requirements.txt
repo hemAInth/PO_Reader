@@ -3,9 +3,9 @@ google-generativeai
 python-dotenv
 #tempfile
 #os
-PIL
+#PIL
 fitz
 #langchain
-PyPDF2
+#PyPDF2
 #chromadb
 #faiss-cpu
