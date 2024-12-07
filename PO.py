@@ -8,7 +8,8 @@ import google.generativeai as genai
 
 # Load environment variables from .env file
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY")
+#api_key = os.getenv("GOOGLE_API_KEY")
+api_key = ${{secrets.GOOGLE_API_KEY}}
 
 if api_key is None:
     st.error("Google API Key is not set. Check your .env file.")
