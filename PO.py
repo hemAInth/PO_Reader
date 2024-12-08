@@ -1,3 +1,8 @@
+
+# Copyright (c) 2024 Hemanth Garikapati
+# Unauthorized copying, sharing, or redistribution of this code is prohibited.
+# For Licensing inquiries, contact hemanthgarikapati@gmail.com
+
 import streamlit as st
 import os
 import tempfile
